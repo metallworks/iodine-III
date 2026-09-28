@@ -25,4 +25,4 @@ Most network filters automatically block standard gaming domains, but they rarel
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Metal Public License v1.0 (MPL-1)** - see the [LICENSE](LICENSE) file for details.
