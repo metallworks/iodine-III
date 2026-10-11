@@ -1,0 +1,1 @@
+(function(global){"use strict";global.IodineVideoConfig={youtubeApiKey:"",pipedServers:[],shortsRelay:""}})(window);

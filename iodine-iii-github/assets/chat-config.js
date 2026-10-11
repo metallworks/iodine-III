@@ -1,0 +1,1 @@
+(function(global){"use strict";global.IodineChatConfig={allowFree:true,useLocal:true,localModel:"Qwen2.5-0.5B-Instruct-q4f16_1-MLC",apiKey:"",endpoint:"https://openrouter.ai/api/v1/chat/completions",model:"meta-llama/llama-3.3-70b-instruct:free",style:"openai",label:"Iodine Assistant"}})(window);
