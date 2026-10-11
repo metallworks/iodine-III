@@ -113,6 +113,6 @@ docs/               screenshots for this page
 
 <div align="center">
 
-Made by Metalworks· **[iodine3.wasmer.app](https://iodine.wasmer.app/)**
+Made by Metalworks · **[iodine.wasmer.app](https://iodine.wasmer.app/)**
 
 </div>
