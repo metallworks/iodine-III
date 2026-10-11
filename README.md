@@ -1,5 +1,7 @@
 # Iodine III
 
+**WE WILL HUNT YOU DOWN AND SKIN YOU IF YOU DDOS US**
+
 **Iodine III is the 3rd version of the unblockable unblocked games site, Iodine.** It upgrades the stealth architecture of its predecessors by introducing an auto-update system contained entirely within a single file: `iodine.html`. 
 
 Most network filters automatically block standard gaming domains, but they rarely block the trusted open-source CDNs used to pull the latest game assets. This project exploits that blind spot to keep games continuously updated and accessible without manual redeployments.
