@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position:fixed;inset:0;background:#000">
+  <!-- Iodine Shorts relay.
+
+       YouTube refuses to play inside a page that has no web address
+       (Error 153) - which is every page opened from a file on disk. This
+       file lives at a real address (upload it to any GitHub repo and it
+       is served by jsDelivr), so the player it holds is accepted. It
+       plays exactly one YouTube video, picked by ?v= - it will not load
+       anything else. -->
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0;height:100%;background:#000">
+      <iframe id="p" style="position:fixed;inset:0;width:100%;height:100%;border:0"
+              allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen="true"></iframe>
+      <script>
+        (function () {
+          var id = new URLSearchParams(location.search).get('v') || '';
+          if (!/^[A-Za-z0-9_-]{11}$/.test(id)) return;
+          document.getElementById('p').src = 'https://www.youtube-nocookie.com/embed/' + id
+            + '?autoplay=1&amp;playsinline=1&amp;loop=1&amp;playlist=' + id + '&amp;rel=0&amp;modestbranding=1';
+        })();
+      </script>
+    </body>
+  </foreignObject>
+</svg>
