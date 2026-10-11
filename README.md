@@ -12,7 +12,7 @@
 
 Iodine III is a single-page site with thousands of browser games, a movie and TV player, a music player, an AI assistant, a web proxy and its own social network, the **Iodine Network (IDN)**. It runs entirely in the browser, with no installs and no build step.
 
-This repository is the **public copy** of the code. Everything works here except the Iodine Network, which only runs on the [live site](https://iodine3.wasmer.app/) (see [Running your own copy](#running-your-own-copy)).
+This repository is the **public copy** of the code. Everything works here except the Iodine Network, which only runs on the [live site](https://iodine.wasmer.app/) (see [Running your own copy](#running-your-own-copy)).
 
 <div align="center">
 <img src="docs/games.jpg" alt="The Games tab" width="820">
@@ -113,6 +113,6 @@ docs/               screenshots for this page
 
 <div align="center">
 
-Made by the Iodine team · **[iodine3.wasmer.app](https://iodine3.wasmer.app/)**
+Made by Metalworks· **[iodine3.wasmer.app](https://iodine.wasmer.app/)**
 
 </div>
