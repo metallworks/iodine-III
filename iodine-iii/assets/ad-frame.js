@@ -1,1 +1,0 @@
-(function(){"use strict";var slot=String(location.hash||"").replace(/^#/,"");var A=window.IodineAds;var code=A&&A.codeForSlot?A.codeForSlot(slot):"";if(code)document.write(code)})();
