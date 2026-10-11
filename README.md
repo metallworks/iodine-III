@@ -4,7 +4,7 @@
 
 ### Games, movies, music and friends in one tab.
 
-**[▶ Open Iodine III](https://iodine3.wasmer.app/)**
+**[▶ Open Iodine III](https://iodine.wasmer.app/)**
 
 </div>
 
